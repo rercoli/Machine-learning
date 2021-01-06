@@ -1,2 +1,2 @@
 # Machine-learning
-Machine learning algorithms scripts
+Multiple notebooks for different types of machine learning algorithms (supervised, unsupervised)
